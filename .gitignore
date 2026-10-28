@@ -1,0 +1,9 @@
+env/
+__pycache__/
+*.pyc
+.vscode/
+.env
+figures/
+data/reseau_debit.csv
+data/comparaison_methodes.csv
+data/comparaison_reglages.csv
